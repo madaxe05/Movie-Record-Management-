@@ -38,15 +38,10 @@ This is a **Movie Record Management** system built using **Python and Tkinter** 
    python main.py
    ```
 
-## 📸 Screenshots (Optional)
-_Add screenshots of the GUI here_
 
-## 🤝 Contributors
-- **Sohan Dhungel** *(Your role here)*
-- **Other Team Members** *(If applicable)*
 
-## 📜 License (Optional)
-This project is licensed under the MIT License.
+
+
 
 ---
 Enjoy managing your movie records! 🎥🍿
